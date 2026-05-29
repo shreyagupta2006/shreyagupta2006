@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Shreya Gupta 👋
+A passionate Full Stack Developer and Data Science enthusiast from India.
+I enjoy building modern web applications, solving DSA problems in Java, and exploring AI & Machine Learning.
+Currently focused on improving my development skills through real-world projects and continuous learning.
+
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack and Data Science projects<br><br>👯 I’m looking to collaborate on Full Stack,Data Science and AI projects<br><br>🤝 I’m looking for help with Machine Learning and advanced Data Analytics<br><br>🌱 I’m currently learning Full Stack Development, Java, and Data Science<br><br>💬 Ask me about Java, DSA, Python, and Data Science<br><br>⚡ Fun fact: I love finding insights from data and building real-world projects
